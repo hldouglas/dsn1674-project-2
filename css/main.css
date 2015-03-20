@@ -58,7 +58,7 @@ nav li {
 	display: inline;
 	width: 50%;
 	float: left;
-	padding: .6em;
+	padding: 0.6em;
   padding-left: 12px;
 	border-bottom: 1px solid black;
 	border-right: 1px solid black;
@@ -89,7 +89,7 @@ a {
 .banner h2{
   font-size: 1.875em;
 	position: absolute;
-	bottom: .3em;
+	bottom: 0.3em;
 	text-align: center;
 	width: 100%;
 	color: white;
@@ -99,12 +99,12 @@ a {
 }
 
 main p{
-	margin: 1em .5em;
+	margin: 1em 0.5em;
   line-height: 157.5%;
 }
 
 .Dragon h3 {
-  font-size:1.5em;
+  font-size: 1.5em;
   font-style: bold;
 }
 
@@ -115,7 +115,7 @@ main p{
 }
 .Dragon {
 	background-color: #e4c22a;
-	padding: .5em;
+	padding: 0.5em;
 	text-align: center;
 }
 .Dragon p {
@@ -126,7 +126,7 @@ main p{
 }
 
 .Rooster h3 {
-  font-size:1.5em;
+  font-size: 1.5em;
   font-style: bold;
 }
 
@@ -138,7 +138,7 @@ main p{
 
 .Rooster {
 	background-color: #bc0017;
-	padding: .5em;
+	padding: 0.5em;
 	text-align: center;
 	color: white;
 }
@@ -151,7 +151,7 @@ main p{
 }
 
 .Goat h3 {
-  font-size:1.5em;
+  font-size: 1.5em;
   font-style: bold;
 }
 
@@ -163,7 +163,7 @@ main p{
 
 .Goat {
 	background-color: #222222;
-	padding: .5em;
+	padding: 0.5em;
 	text-align: center;
 	color: white;
 }
@@ -188,7 +188,7 @@ main p{
 
 .Ox {
 	background-color: #e4c22a;
-	padding: .5em;
+	padding: 0.5em;
 	text-align: center;
 }
 
@@ -197,4 +197,12 @@ main p{
   font-style: italic;
   font-size: 0.79em;
   padding-top: 22px;
+}
+
+aside {
+	background-color: #222222;
+  text-align: center;
+  text-decoration: underline;
+  padding: 2.25em;
+  font-size: 0.7em;
 }
