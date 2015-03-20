@@ -50,7 +50,7 @@ header p {
 
 nav {
   text-align: left;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 nav li {
@@ -58,7 +58,8 @@ nav li {
 	display: inline;
 	width: 50%;
 	float: left;
-	padding: .45em;
+	padding: .6em;
+  padding-left: 12px;
 	border-bottom: 1px solid black;
 	border-right: 1px solid black;
 }
