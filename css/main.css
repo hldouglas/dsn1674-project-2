@@ -19,7 +19,7 @@ header {
 }
 
 h1 {
-  font-size: 48px;
+  font-size: 3em;
 	margin: 0;
   padding-top: 17px;
   position: relative;
@@ -29,7 +29,7 @@ h1 {
 }
 
 header p {
-  font-size: 14px;
+  font-size: 0.875em;
   position: relative;
   margin-left: auto;
   margin-right: auto;
@@ -50,7 +50,7 @@ header p {
 
 nav {
   text-align: left;
-  font-size: 18px;
+  font-size: 1.125em;
 }
 
 nav li {
@@ -87,7 +87,7 @@ a {
 }
 
 .banner h2{
-  font-size: 30px;
+  font-size: 1.875em;
 	position: absolute;
 	bottom: .3em;
 	text-align: center;
@@ -101,4 +101,100 @@ a {
 main p{
 	margin: 1em .5em;
   line-height: 157.5%;
+}
+
+.Dragon h3 {
+  font-size:1.5em;
+  font-style: bold;
+}
+
+.Dragon img {
+	width: 37%;
+	float: left;
+	margin-left: 8.5%;
+}
+.Dragon {
+	background-color: #e4c22a;
+	padding: .5em;
+	text-align: center;
+}
+.Dragon p {
+	clear: left;
+  font-style: italic;
+  font-size: 0.79em;
+  padding-top: 22px;
+}
+
+.Rooster h3 {
+  font-size:1.5em;
+  font-style: bold;
+}
+
+.Rooster img {
+  width: 37%;
+	float: left;
+	margin-left: 8.5%;
+}
+
+.Rooster {
+	background-color: #bc0017;
+	padding: .5em;
+	text-align: center;
+	color: white;
+}
+
+.Rooster p {
+	clear: left;
+  font-style: italic;
+  font-size: 0.79em;
+  padding-top: 22px;
+}
+
+.Goat h3 {
+  font-size:1.5em;
+  font-style: bold;
+}
+
+.Goat img {
+  width: 37%;
+	float: left;
+	margin-left: 8.5%;
+}
+
+.Goat {
+	background-color: #222222;
+	padding: .5em;
+	text-align: center;
+	color: white;
+}
+
+.Goat p {
+	clear: left;
+  font-style: italic;
+  font-size: 0.79em;
+  padding-top: 22px;
+}
+
+.Ox h3 {
+  font-size:1.5em;
+  font-style: bold;
+}
+
+.Ox img {
+  width: 37%;
+	float: left;
+	margin-left: 8.5%;
+}
+
+.Ox {
+	background-color: #e4c22a;
+	padding: .5em;
+	text-align: center;
+}
+
+.Ox p {
+	clear: left;
+  font-style: italic;
+  font-size: 0.79em;
+  padding-top: 22px;
 }
